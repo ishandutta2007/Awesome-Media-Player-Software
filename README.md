@@ -5,7 +5,7 @@
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
   <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Media-Player-Software/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Media-Player-Software?style=social" alt="GitHub Stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Media-Player-Software/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Media-Player-Software?style=social" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Media-Player-Software/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Media-Player-Software?style=social" alt="GitHub Forks" /></a>
   <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
 </p>
@@ -52,9 +52,9 @@ Whether you are looking for light-weight local desktop playback, 4K HDR hardware
 
 ## 🔓 Open-Source GitHub Projects
 
-The open-source media player ecosystem is **exceptionally mature and production-proven**. Below is a comprehensive list of top open-source media software repositories, sorted by GitHub star count in descending order:
+The open-source media player ecosystem is **exceptionally mature and production-proven**. Below is a comprehensive list of top open-source media software repositories, sorted by GitHub Stars_Count in descending order:
 
-| Repo | Description | GitHub Stars |
+| Repo | Description | GitHub_Stars |
 |------|-------------|--------------|
 | **[IINA](https://github.com/iina/iina)** | **The modern video player for macOS.** Built on **mpv** for best decoding capacity on macOS. Clean, native Swift interface designed for macOS 10.15+. **GPL-3.0**. | [<img src="https://img.shields.io/github/stars/iina/iina?style=social&color=white" alt="IINA Stars"/>](https://github.com/iina/iina/stargazers) |
 | **[mpv](https://github.com/mpv-player/mpv)** | **The power user's VLC alternative.** Minimalist interface with exceptional video rendering quality (`gpu-next`). Hardware decoding, HDR playback, custom shaders, and Lua scripting. **GPL-2.0**. | [<img src="https://img.shields.io/github/stars/mpv-player/mpv?style=social&color=white" alt="mpv Stars"/>](https://github.com/mpv-player/mpv/stargazers) |
@@ -77,7 +77,7 @@ Contributions are very welcome! To suggest a new commercial or open-source media
 
 1. Fork this repository on GitHub.
 2. Edit `README.md` to add your item (follow the markdown table structure).
-3. Include title, official website/repo link, key feature summary, pricing/license, and company size or star badge.
+3. Include title, official website/repo link, key feature summary, pricing/license, and company size or Stars_Badge.
 4. Submit a Pull Request (PR) with a brief summary of the addition.
 
 ---
